@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-# Depencies
+# Dependencies
 
 Modular: https://modular.flutterando.com.br/docs/intro
 Installation: flutter pub add flutter_modular
