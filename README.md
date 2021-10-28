@@ -20,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Modular: https://modular.flutterando.com.br/docs/intro
 Installation: flutter pub add flutter_modular
+
+Patron bloc: https://pub.dev/packages/flutter_bloc/install
+Installation: flutter pub add flutter_bloc
